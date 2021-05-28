@@ -1,4 +1,4 @@
-### data_connection_checker
+### data_connection_checker - With null-safety support
 
 [![Pub](https://img.shields.io/pub/v/data_connection_checker.svg)](https://pub.dev/packages/data_connection_checker)
 
